@@ -1,2 +1,2 @@
 # software-testing
-vgtgr
+Репозиторий для домашних  работ 
